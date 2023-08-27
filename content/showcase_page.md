@@ -1,6 +1,6 @@
 ---
 title: "Showcase deez knuts"
-date: 13-11-2022
+date: 2022-01-12
 ---
 
 ## Header 2
@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum met
 
 Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, `odio a dignissim pharetra`, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.
 
-```css
+```css {linenos=table,hl_lines=[8,"15-17"]}
 /* PostCSS code */
 
 pre {
@@ -36,8 +36,9 @@ pre {
   }
 }
 ```
+Testing her
 
-```js
+```js {linenos=table,hl_lines=[8,"15-17"]}
 // JS code
 
 const menuTrigger = document.querySelector('.menu-trigger')
@@ -56,7 +57,7 @@ menuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))
 window.addEventListener('resize', isMobileMenu)
 ```
 
-```html
+```html {linenos=table,hl_lines=[8,"15-17"]}
 <!-- HTML code -->
 
 <section id="main">

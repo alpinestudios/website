@@ -1,26 +1,48 @@
-body {
-	font-family: sans-serif ;
-	background: #f5f2e9 ;
-	color: black ;
+@font-face {
+	font-family: randygg;
+	src: url("/fonts/randy-gg.tff");
 }
 
+body {}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: randygg;
+}
+
+h1#title {
+	text-align: center ;
+	font-size: 2em;
+}
+
+
 main {
-	max-width: 800px ;
-	margin: auto ;
+	max-width: 800px;
+	margin: auto;
 }
 
 img {
-	max-width: 100% ;
+	max-width: 100%;
 }
 
 header h1 {
-	text-align: center ;
+	text-align: center;
 }
 
 footer {
-	text-align: center ;
-	clear: both ;
+	text-align: center;
+	clear: both;
 }
+
+div.pages.spaced {
+	display: flex;
+	justify-content: space-between;
+}
+
 
 /* For TAGLIST.HTML */
 .taglist {

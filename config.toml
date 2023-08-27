@@ -1,5 +1,5 @@
-title = "Website Name"
-baseURL = 'https://example.org'
+title = "Randy"
+baseURL = 'https://randy.gg'
 languageCode = 'en-us'
 theme = 'lugo'
 
@@ -8,3 +8,6 @@ theme = 'lugo'
   #relatedtext = "Related:"
   #favicon = "/favicon.ico"
   showrss = true
+
+[markup.goldmark.renderer]
+  unsafe= true

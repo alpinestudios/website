@@ -1,5 +1,3 @@
 ---
-title: "home"
+title: "Randy"
 ---
-
-BALLS LMAO

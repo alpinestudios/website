@@ -23,6 +23,7 @@ h1#title {
 main {
 	max-width: 800px;
 	margin: auto;
+	
 }
 
 img {
@@ -65,3 +66,6 @@ div.pages.spaced {
 #nextart,#prevart {
 	max-width: 33% ;
 }
+
+
+#wordcount, #date {margin: 0;}

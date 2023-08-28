@@ -8,6 +8,7 @@ theme = 'lugo'
   #relatedtext = "Related:"
   #favicon = "/favicon.ico"
   showrss = true
+  description = "Lorem ipsum dolor sit amet. In enim voluptatem ut officia voluptatem est debitis eius. Ad quis aspernatur et impedit internos est fugit assumenda in asperiores dicta et quisquam suscipit non cupiditate beatae eum fugit impedit."
 
 [markup.goldmark.renderer]
   unsafe= true

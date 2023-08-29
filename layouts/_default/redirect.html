@@ -1,0 +1,11 @@
+{{ define "main" }}
+  <section id="main">
+    <h1 id="title">{{ .Title }}</h1>
+  </section>
+
+  {{ .Content }}
+
+  <script>
+    window.location.href = "{{ .Page.Params.redirect_url }}";
+  </script>
+{{ end }}

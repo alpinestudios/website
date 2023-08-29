@@ -4,11 +4,15 @@ languageCode = 'en-us'
 theme = 'lugo'
 
 [params]
-  # "relatedtext" is the text that appears above the tag list at the bottom of pages.
-  #relatedtext = "Related:"
   #favicon = "/favicon.ico"
   showrss = true
-  description = "Lorem ipsum dolor sit amet. In enim voluptatem ut officia voluptatem est debitis eius. Ad quis aspernatur et impedit internos est fugit assumenda in asperiores dicta et quisquam suscipit non cupiditate beatae eum fugit impedit."
+  
+  youtube_link = "https://www.youtube.com/c/RandallThomas"
+  kofi_link = "https://ko-fi.com/bigrando420"
+  twitch_link = "https://twitch.tv/randy"
+  
+  web_description = "I'm just a dude who's trying his best to become a solid game developer and decent human being somewhere along the way. Follow My Journey."
+  intro_description = "G’DAY, I’m Randy"
 
 [markup.goldmark.renderer]
   unsafe= true

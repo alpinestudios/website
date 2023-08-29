@@ -1,7 +1,8 @@
----
-title: "Randy"
----
-{{< intro_description `"centered"` >}}
-{{< web_description >}}
 
-{{< contact_email "Contact me here" >}}
+---
+title: Randy
+layout: "redirect"
+
+redirect_url: "https://alpinegames.org/"
+---
+

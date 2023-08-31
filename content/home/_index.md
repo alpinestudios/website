@@ -9,4 +9,3 @@ title: "Randy"
 <h1>Recent Posts:</h1>
 {{< blog_list "5" >}}
 <p class="centered" ><a href="/blog/">More</a></p>
-<br>

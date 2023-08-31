@@ -29,8 +29,7 @@ h1#title {
 
 main {
 	max-width: 800px;
-	margin: auto;
-
+	margin: auto
 }
 
 p.centered {
@@ -59,7 +58,8 @@ footer {
 
 div.pages.spaced {
 	display: flex;
-	justify-content: space-between;
+	justify-content: center;
+	gap: 25px
 }
 
 
@@ -93,4 +93,16 @@ div.pages.spaced {
 #date {
 	margin: 0;
 	font-family: randygg;
+}
+
+div .highlight > div {
+	overflow-x: scroll;
+}
+
+
+@media (max-width:820px) {
+	main {
+		width: 95%;
+	}
+
 }

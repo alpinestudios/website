@@ -6,6 +6,12 @@ title: "Randy"
 
 {{< contact_email "Contact me here" >}}
 
-<h1>Recent Posts:</h1>
+# Recent Posts:
 {{< blog_list "5" >}}
-<p class="centered" ><a href="/blog/">More</a></p>
+
+<p class="centered"><a href="/blog/">More</a></p>
+
+# Recent Resources
+{{< res_list "5" >}}
+
+<p class="centered"><a href="/res/">More</a></p>

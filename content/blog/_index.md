@@ -1,5 +1,5 @@
 ---
-title: Randy
+title: Blog
 ---
 
 # Blog Posts

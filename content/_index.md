@@ -1,5 +1,7 @@
 ---
 title: Resources
+
+description: A collection of resources/tools I’ve come across over the years to aid in building games from scratch.
 ---
 
 A collection of resources/tools I've come across over the years to aid in building games from scratch.  

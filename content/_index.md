@@ -1,5 +1,5 @@
 ---
-title: yo
+title: Blog
 ---
 
 # Blog Posts

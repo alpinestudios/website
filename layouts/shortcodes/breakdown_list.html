@@ -1,0 +1,11 @@
+{{ range (where .Site.Pages "Section" .Page.Section) }}
+{{ range .Pages.Reverse }}
+
+
+{{ .Content }}
+<br>
+<br>
+<hr>
+
+{{ end }}
+{{ end }}

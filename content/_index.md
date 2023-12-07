@@ -1,6 +1,7 @@
 ---
-title: Blog
+title: YO
 ---
 
-# Blog Posts
-{{< blog_list >}}
+this site is a work in progress.
+
+[resources](/res)

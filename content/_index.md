@@ -1,7 +1,4 @@
 ---
-title: YO
+title: ROADMAP
 ---
 
-this site is a work in progress.
-
-[resources](/res)

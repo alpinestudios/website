@@ -22,6 +22,7 @@ theme = 'lugo'
 
 [markup.goldmark.renderer]
   unsafe= true
+  hardWraps = true
 
 [params.fonts]
   google_fonts = false

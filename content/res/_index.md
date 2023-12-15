@@ -14,6 +14,10 @@ Don't forget to keep it simple ;)
 
 ## misc
 
+[How I structure my entities](https://youtu.be/UolgW-Ff4bA)
+
+[JBlow's extremely valuable cookbook for engine programming](https://www.youtube.com/playlist?list=PLmV5I2fxaiCI9IAdFmGChKbIbenqRMi6Z)  
+
 [Sokol](https://github.com/floooh/sokol) for an easy and solid foundation (platform, input, sound, etc)  
 
 https://easings.net/ - easing functions cheat sheet  
@@ -89,7 +93,7 @@ then...
 [Jai Community Wiki](https://github.com/Jai-Community/Jai-Community-Library/wiki) - a great reference once finished with the `how_to`'s (and for finding stuff that isn't yet doucmented in them)  
 
 ### Jon Nuggets
-valuable comments extracted from various places throughout the Jai codebase  
+[why RAII is bad](https://www.youtube.com/watch?v=uZgbKrDEzAs&t=603s)
 
 on simply parsing a custom text file, found in `"jai\modules\Text_File_Handler\examples\example.jai"`
 ```

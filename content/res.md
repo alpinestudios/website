@@ -12,6 +12,23 @@ If you can't find it there, you could open up a help thread on the [Handmade Net
 
 Don't forget to keep it simple ;)
 
+## Getting Started
+GREAT starting point for learning solid C/C++ fundamentals - https://guide.handmadehero.org/intro-to-c/
+As a general rule of thumb, avoid all modern C++ like the plague and figure out how to do the equivalent thing (like std::string, or std::vector) with simple fundamentals (fixed length strings, or flat arrays).
+
+## Memory Management
+A nice video clip to intro to the overall issue: https://hero.handmade.network/episode/code/day626/#4408  
+
+[Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)  
+[@](https://www.rfleury.com/i/70173682/arena-parameterization) good example of how arenas can be passed as parameters  
+[@](https://www.rfleury.com/i/70173682/composition-with-more-complex-allocators) great example of a growable entity allocator with a free list  
+[@](https://www.rfleury.com/i/70173682/per-thread-scratch-arenas) per-thread scratch arenas  
+
+> "Learning how to work with arenas entirely revolutionized my experience with writing code in C. I almost never think about memory management, these days—it is not particularly more cumbersome than writing in a garbage-collected scripting language. Unlike such a language, however, I know where my memory is coming from, and when it’ll be “released”, and what that even means." - rjf
+
+Solid written overview - https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/  
+Solid implementation walk-thru - https://www.gingerbill.org/article/2019/02/08/memory-allocation-strategies-002/  
+
 ## misc
 
 [How I structure my entities](https://youtu.be/UolgW-Ff4bA)
@@ -70,19 +87,6 @@ Ryan deserves his own section because he's an absolute unit of a man.
 [His Substack](https://www.rfleury.com/) is a gold-mine. If you become a member, his community discord is a great place to ask questions and get sensible answers  
 [UI Series](https://www.rfleury.com/p/ui-series-table-of-contents)  
 [Confronting combinatorics](https://www.rfleury.com/i/54162175/confronting-combinatorics) - flags vs switches  
-
-## Memory Management
-A nice video clip to intro to the overall issue: https://hero.handmade.network/episode/code/day626/#4408  
-
-[Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)  
-[@](https://www.rfleury.com/i/70173682/arena-parameterization) good example of how arenas can be passed as parameters  
-[@](https://www.rfleury.com/i/70173682/composition-with-more-complex-allocators) great example of a growable entity allocator with a free list  
-[@](https://www.rfleury.com/i/70173682/per-thread-scratch-arenas) per-thread scratch arenas  
-
-> "Learning how to work with arenas entirely revolutionized my experience with writing code in C. I almost never think about memory management, these days—it is not particularly more cumbersome than writing in a garbage-collected scripting language. Unlike such a language, however, I know where my memory is coming from, and when it’ll be “released”, and what that even means." - rjf
-
-Solid written overview - https://www.gingerbill.org/article/2019/02/01/memory-allocation-strategies-001/  
-Solid implementation walk-thru - https://www.gingerbill.org/article/2019/02/08/memory-allocation-strategies-002/  
 
 ## Jai Programming
 If you're in the beta, first just read the `how_to`  

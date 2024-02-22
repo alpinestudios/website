@@ -6,16 +6,14 @@ description: A collection of resources/tools I’ve come across over the years t
 
 A collection of resources/tools I've come across over the years to aid in building games from scratch.  
 
+If you're somewhere at the beginning of your journey in making games from scratch and are serious about wanting to ship something (and you're not just here to dabble), I can help fast-track you to where I am today, shoot me an email - contact at randy dot gg
+
 If you ever want to find something specific that isn't here, this is usually the first place I search - [Handmade hero episode guide](https://hero.handmade.network/episode/code)  
 If you can't find it there, you could open up a help thread on the [Handmade Network Discord](https://handmade.network/)  
-
-Don't forget to keep it simple ;)
 
 ## Getting Started
 GREAT starting point for learning solid C/C++ fundamentals - https://guide.handmadehero.org/intro-to-c/
 As a general rule of thumb, avoid all modern C++ like the plague and figure out how to do the equivalent thing (like std::string, or std::vector) with simple fundamentals (fixed length strings, or flat arrays).
-
-If you're serious about wanting to make games from scratch (and you're not just here to dabble), I can help fast-track you to where I am today, shoot me an email - contact at randy dot gg
 
 ## Memory Management
 A nice video clip to intro to the overall issue: https://hero.handmade.network/episode/code/day626/#4408  

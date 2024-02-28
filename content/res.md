@@ -12,7 +12,8 @@ If you ever want to find something specific that isn't here, this is usually the
 If you can't find it there, you could open up a help thread on the [Handmade Network Discord](https://handmade.network/)  
 
 ## Getting Started
-GREAT starting point for learning solid C/C++ fundamentals - https://guide.handmadehero.org/intro-to-c/
+This is a decent starting point for learning solid C/C++ fundamentals - https://guide.handmadehero.org/intro-to-c/
+There's a lot of windows-specific stuff in there which *can be* useful to know (assuming you're on windows). For the most part though, skip over it and just focus on the fundamentals of C.
 As a general rule of thumb, avoid all modern C++ like the plague and figure out how to do the equivalent thing (like std::string, or std::vector) with simple fundamentals (fixed length strings, or flat arrays).
 
 ## Memory Management
@@ -119,6 +120,8 @@ high level overview - https://pvigier.github.io/2019/09/08/beginner-guide-game-n
 Don't bang your head against a wall trying to get around [NAT](https://tailscale.com/blog/how-nat-traversal-works/) from scratch, bang your head against a wall while using the [SteamAPI](https://partner.steamgames.com/doc/sdk/api) instead.  
 
 great resource for learning socket fundamentals from scratch - https://beej.us/guide/bgnet/  
+
+if you ever wanna go down the route of a netchad, here's *a lot* more concepts - https://beej.us/guide/bgnet0/
 
 ## multithreading
 [Introduction to Multithreading](https://guide.handmadehero.org/code/day122)  

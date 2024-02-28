@@ -4,17 +4,59 @@ title: Resources
 description: A collection of resources/tools I’ve come across over the years to aid in building games from scratch.
 ---
 
-A collection of resources/tools I've come across over the years to aid in building games from scratch.  
+# A guide to building a game from scratch without dying
+There are an infinite amount of problems to solve.
+Yet, only a handful of them will bring you closer to releasing a game.
 
-If you're somewhere at the beginning of your journey in making games from scratch and are serious about wanting to ship something (and you're not just here to dabble), I can help fast-track you to where I am today, shoot me an email - contact at randy dot gg
-
-If you ever want to find something specific that isn't here, this is usually the first place I search - [Handmade hero episode guide](https://hero.handmade.network/episode/code)  
-If you can't find it there, you could open up a help thread on the [Handmade Network Discord](https://handmade.network/)  
+If you're serious about wanting to ship a game from scratch (and aren't just here to dabble), then read on.
 
 ## Getting Started
-This is a decent starting point for learning solid C/C++ fundamentals - https://guide.handmadehero.org/intro-to-c/
+I wish there were a simple (and actually good) game development from scratch course I could point you towards. But sadly nothing exists yet (that I'm aware of).
+
+So you've got two options:
+
+### option #1: Self-taught
+Use these resources (and others you find online) to try and create your own curriculum. Learning as you go.
+The downside to this, is that it's really easy to get overwhelmed since there's *a metric shitload* of information out there, and filtering what's useful / what isn't when it comes to getting to where you want to go is very difficult.
+It's not impossible though. This is the path I took. It's taken me around 8 years to get to where I am today and I'm sure you can shortcut a lot of that with these resources.
+But it won't be a walk in the park.
+
+### option #2: Coaching
+I don't have all the answers and there are a lot of areas I am sorely lacking in.
+But I can teach you everything I know so that you can avoid all of the mistakes I've run into already.
+I'll help you fast-track your way to where you want to go.
+If you're interested, send me an email - contact at randy dot gg
+
+## Self-taught
+If you're deciding to go down this route. A good starting point for learning solid C fundamentals is https://guide.handmadehero.org/intro-to-c/
 There's a lot of windows-specific stuff in there which *can be* useful to know (assuming you're on windows). For the most part though, skip over it and just focus on the fundamentals of C.
+
 As a general rule of thumb, avoid all modern C++ like the plague and figure out how to do the equivalent thing (like std::string, or std::vector) with simple fundamentals (fixed length strings, or flat arrays).
+sidenote: If you're coming from C++ and are leaning heavily on the standard library (like I was), I found that forcing myself into C was a really smart move.
+
+Save yourself a couple of wasted years by never learning OOP and skipping straight to learning the fundamentals of computing.
+If you're in the unfortunate position of having already learnt OOP (like myself), you will need to try your best to *unlearn* it.
+
+Beyond simple programming, making an actual game in C is a whole beast in itself. And there isn't really any resources I know of that cover this from start to finish.
+
+You can try working your way through some of Casey's Handmade Hero series - https://guide.handmadehero.org/
+But with that you've got to be careful of catching "engine brain" and getting ratholed for years on *interesting tech challenges* that don't really amount to anything.
+Exhibit A: https://www.youtube.com/watch?v=uVvZlH5gPAU
+
+Beyond that. I don't have a good answer aside from just trial and error, while seeking as many mentors as possible and asking a fuck load of questions.
+For that, here are some good places to do so:
+
+Ryan's discord server https://www.rfleury.com/ (which'll probably require a $5/month investment to his Substack if you want to be nice)
+
+Searching via the [Handmade hero episode guide](https://hero.handmade.network/episode/code) can be helpful.
+
+If all else fails, the [Handmade Network Discord](https://handmade.network/).
+
+Good luck, have fun!
+
+---
+
+The rest of this page is just loosely organise concepts which you might find useful.
 
 ## Memory Management
 A nice video clip to intro to the overall issue: https://hero.handmade.network/episode/code/day626/#4408  

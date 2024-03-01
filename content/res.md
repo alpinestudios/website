@@ -4,7 +4,7 @@ title: Resources
 description: A collection of resources/tools I’ve come across over the years to aid in building games from scratch.
 ---
 
-# How to build a game from scratch without dying of old age
+# How to make a game from scratch without dying of old age
 There are an infinite amount of problems to solve.
 Yet, only a handful of them will bring you closer to releasing a game.
 

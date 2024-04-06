@@ -1,4 +1,4 @@
-title = "RAandy.gg"
+title = "randy.gg"
 baseURL = 'https://randy.gg'
 languageCode = 'en-us'
 theme = 'lugo'
@@ -8,7 +8,7 @@ theme = 'lugo'
   #favicon = "/favicon.ico"
   showrss = true
 
-  youtube_link = "https://www.youtube.com/c/RandallThomas"
+  youtube_link = "https://www.youtube.com/@randyprime"
   kofi_link = "https://ko-fi.com/bigrando420"
   twitch_link = "https://twitch.tv/randy"
 

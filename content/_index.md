@@ -26,6 +26,15 @@ struct addrinfo {
 };
 ```
 
+Alright, this is a table.
+look at the table
+or else
+| Header 1 | Header 2 | Header 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+
+
 ![cat](https://media1.tenor.com/m/t4j2MWEZgSEAAAAd/kitten.gif)
 
 ![big monke](https://media1.tenor.com/m/1f-B95eNYkkAAAAC/gorilla.gif)

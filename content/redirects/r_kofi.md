@@ -3,6 +3,7 @@ url: kofi
 aliases: 
 - fund
 - donate
+- ko-fi
 
 title: kofi
 layout: "redirect"

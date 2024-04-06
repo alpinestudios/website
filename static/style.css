@@ -107,3 +107,25 @@ div .highlight > div {
 	}
 
 }
+
+
+/* Code CSS */
+
+pre {
+	padding: 10px;
+}
+
+
+/* Table CSS */
+
+table {
+	border-collapse: collapse;
+}
+
+th, td {
+	padding: 5px;
+	padding-left: 10px;
+	padding-right: 10px;
+
+	border-bottom: 1px solid;
+  }

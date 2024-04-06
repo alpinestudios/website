@@ -8,27 +8,9 @@ description: A collection of resources/tools I’ve come across over the years t
 There are an infinite amount of problems to solve.
 Yet, only a handful of them will bring you closer to releasing a game.
 
-If you're serious about wanting to ship a game from scratch (and aren't just here to dabble), then read on.
-
-## Getting Started
 I wish there were a simple (and actually good) game development from scratch course I could point you towards. But sadly nothing exists yet (that I'm aware of).
 
-So you've got two options:
-
-### option #1: Self-taught
-Use these resources (and others you find online) to try and create your own curriculum. Learning as you go.
-The downside to this, is that it's really easy to get overwhelmed since there's *a metric shitload* of information out there, and filtering what's useful / what isn't when it comes to getting to where you want to go is very difficult.
-It's not impossible though. This is the path I took. It's taken me around 8 years to get to where I am today and I'm sure you can shortcut a lot of that with these resources.
-But it won't be a walk in the park.
-
-### option #2: Coaching
-I don't have all the answers and there are a lot of areas I am sorely lacking in.
-But I can teach you everything I know so that you can avoid all of the mistakes I've run into already.
-I'll help you fast-track your way to where you want to go.
-If you're interested, send me an email - contact at randy dot gg
-
-## Self-taught
-If you're deciding to go down this route. A good starting point for learning solid C fundamentals is https://guide.handmadehero.org/intro-to-c/
+A good starting point for learning solid C fundamentals is https://guide.handmadehero.org/intro-to-c/
 There's a lot of windows-specific stuff in there which *can be* useful to know (assuming you're on windows). For the most part though, skip over it and just focus on the fundamentals of C.
 
 As a general rule of thumb, avoid all modern C++ like the plague and figure out how to do the equivalent thing (like std::string, or std::vector) with simple fundamentals (fixed length strings, or flat arrays).
@@ -52,7 +34,7 @@ Searching via the [Handmade hero episode guide](https://hero.handmade.network/ep
 
 If all else fails, the [Handmade Network Discord](https://handmade.network/).
 
-Good luck, have fun!
+glhf
 
 ---
 

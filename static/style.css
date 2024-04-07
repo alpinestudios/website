@@ -16,6 +16,31 @@ body {
 	line-height: 1.4;
 }
 
+div#nav {
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	gap: 5px;
+	text-transform: uppercase;
+}
+
+div#nav a {
+	color: black;
+	text-decoration-line: none;
+	text-decoration: none;
+	font-size: 1.2em;
+}
+
+div#nav a.is-active {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+div#nav:last-child() {
+	display: none;
+}
+
 h1,
 h2,
 h3,
@@ -34,7 +59,7 @@ h1#title {
 main {
 	max-width: 650px;
 	margin: auto;
-	margin-top: 50px;
+	margin-top: 30px;
 }
 
 p.centered {

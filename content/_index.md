@@ -1,58 +1,20 @@
 ---
-title: randy.gg
+title: G'DAY
 ---
 
-halo welcom to me sight
+I'm Randy.
 
-thank u for visit
+[YouTube](https://www.youtube.com/@randyprime)
+[Twitter/X](https://twitter.com/primalrandy)
+[Steam](https://store.steampowered.com/developer/randygg)
 
-have good day
+What I do:
+- I eat, shit, and breathe game development. I've been doing it for 8 years, creating [YouTube videos](https://www.youtube.com/@randyprime) as I go
 
-- yeet
-- yeeeeeet
-- YEEEEEEEEEEEEEEEEEEEET
+- Currently working on *Arcane Survival*, which is a 2D open world survival crafting game. Updates can be found on my [Substack](https://randy.gg/changelog), I'm also doing a low-key early access [via Itch](https://randyprime.itch.io/arcane-survival)
 
-```c
-struct addrinfo {
-	int              ai_flags;     // AI_PASSIVE, AI_CANONNAME, etc.
-	int              ai_family;    // AF_INET, AF_INET6, AF_UNSPEC
-	int              ai_socktype;  // SOCK_STREAM, SOCK_DGRAM
-	int              ai_protocol;  // use 0 for "any"
-	size_t           ai_addrlen;   // size of ai_addr in bytes
-	struct sockaddr *ai_addr;      // struct sockaddr_in or _in6
-	char            *ai_canonname; // full canonical hostname
+- I'm programming the game from scratch in [Jai](https://inductive.no/jai/), which is a game-dev oriented C++ killer made by [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow). The language is in closed beta at the moment and I've been using it for just over a year. It's absurdly fucking good. (to join the beta, your first step is figuring out *how* to join the beta)
 
-	struct addrinfo *ai_next;      // linked list, next node
-};
+~
 
-// IPv4:
-char ip4[INET_ADDRSTRLEN];  // space to hold the IPv4 string
-struct sockaddr_in sa;      // pretend this is loaded with something
-
-inet_ntop(AF_INET, &(sa.sin_addr), ip4, INET_ADDRSTRLEN);
-
-printf("The IPv4 address is: %s\n", ip4);
-
-
-// IPv6:
-char ip6[INET6_ADDRSTRLEN]; // space to hold the IPv6 string
-struct sockaddr_in6 sa6;    // pretend this is loaded with something
-
-inet_ntop(AF_INET6, &(sa6.sin6_addr), ip6, INET6_ADDRSTRLEN);
-
-printf("The address is: %s\n", ip6);
-```
-
-Alright, this is a table.
-look at the table
-or else
-| Header 1 | Header 2 | Header 3 |
-|----------|----------|----------|
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
-TODO, make dis table look preddy
-
-
-![cat](https://media1.tenor.com/m/t4j2MWEZgSEAAAAd/kitten.gif)
-
-![big monke](https://media1.tenor.com/m/1f-B95eNYkkAAAAC/gorilla.gif)
+I'm always on the lookout for new people to work with, you can check out my [open positions here](/work).

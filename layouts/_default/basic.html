@@ -1,0 +1,35 @@
+
+{{ define "title" -}}
+{{ .Title }}
+{{- end }}
+
+{{ define "main" }}
+
+
+<section id="main">
+
+  <div>
+    <article id="content">
+      {{ .Content }}
+    </article>
+  </div>
+</section>
+<aside id="meta">
+  <div>
+    {{ with .GetTerms "topics" }}
+    <ul id="topics">
+      {{ range . }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+    {{ with .GetTerms "tags" }}
+    <ul id="tags">
+      {{ range . }}
+      <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+    </ul>
+    {{ end }}
+  </div>
+</aside>
+{{ end }}

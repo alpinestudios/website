@@ -1,5 +1,6 @@
 ---
 title: G'DAY
+layout: basic
 ---
 
 I'm Randy.

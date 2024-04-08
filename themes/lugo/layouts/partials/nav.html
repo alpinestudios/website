@@ -1,6 +1,11 @@
 <div id="nav">
 	{{ $currentPage := . }}
-	{{ range .Site.Menus.nav }}
-	<a class="navbar-item {{ if eq .URL $currentPage.RelPermalink }} is-active {{ end }}" href="{{ .URL }}">{{ .Name }}</a> | 
+	{{ $len := (len .Site.Menus.nav) }}
+	{{ range $index, $element := .Site.Menus.nav }}
+	<a class="navbar-item {{ if eq .URL $currentPage.RelPermalink }} is-active {{ end }}" href="{{ .URL }}">{{ .Name }}</a> 
+	{{ if eq (add $index 1) $len }} 
+	{{else}}
+	|
+	{{end}} 
 	{{ end }}
 </div>

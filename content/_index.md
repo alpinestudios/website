@@ -9,6 +9,8 @@ I'm Randy.
 [Twitter/X](https://twitter.com/primalrandy)
 [Steam](https://store.steampowered.com/developer/randygg)
 
+### Wishlist [Arcane Survival]("https://s.team/a/2571560") on Steam
+
 What I do:
 - I eat, shit, and breathe game development. I've been doing it for 8 years, creating [YouTube videos](https://www.youtube.com/@randyprime) as I go
 

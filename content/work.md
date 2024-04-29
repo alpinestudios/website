@@ -23,7 +23,6 @@ If you agree with this then please do not apply.
 
 Specifically, I'm looking for an engine programmer. Someone to handle all the tech so I can focus on the gameplay and making more content within the existing systems. Some examples of upcoming things // todo: on the tech front...
 - CJK support / internationalisation / localisation
-- multiplayer networking via Steam (I'm already a good chunk of the way there with split game simulation and user rendering running on different threads and communicating via messages)
 - better font rendering
 - adding text boxes to my custom [Ryan Fleury-esque](https://www.rfleury.com/p/ui-series-table-of-contents) immediate mode UI module
 - controller support (via Jai's Gamepad module)

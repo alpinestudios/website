@@ -9,17 +9,11 @@ I'm Randy.
 [Twitter/X](https://twitter.com/primalrandy)
 [Twitch](https://twitch.tv/randy)
 
-### Wishlist [Arcane Survival](https://s.team/a/2571560) on Steam
-
-### Wishlist [Arcane Survival]("https://s.team/a/2571560") on Steam
+**Wishlist [Arcane Survival](https://s.team/a/2571560) on Steam**
 
 What I do:
 - I eat, shit, and breathe game development. I've been doing it for 8 years, creating [YouTube videos](https://www.youtube.com/@randyprime) as I go
 
-- Currently working on *Arcane Survival*, which is a 2D open world survival crafting game. Updates can be found on my [Substack](https://randy.gg/changelog), I'm also doing a low-key early access [via Itch](https://randyprime.itch.io/arcane-survival)
+- Currently working on *Arcane Survival*, which is a 2D open world survival crafting game. I [live stream](https://twtich.tv/randy) development regularly.
 
-- I'm programming the game from scratch in [Jai](https://inductive.no/jai/), which is a game-dev oriented C++ killer made by [Jonathan Blow](https://en.wikipedia.org/wiki/Jonathan_Blow). The language is in closed beta at the moment and I've been using it for just over a year. It's absurdly fucking good. (to join the beta, your first step is figuring out *how* to join the beta)
-
-~
-
-I'm always on the lookout for new people to work with, you can check out my [open positions here](/work).
+- I'm building out a lean game studio that's focused on creating and shipping banger games with great tech. I'm always on the lookout for new people to work with, you can check out my [open positions here](/work).

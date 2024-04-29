@@ -45,9 +45,3 @@ noClasses = false
     name = "work"
     url = "/work/"
     weight = 2
-
-    [[menu.nav]]
-    identifier = "team"
-    name = "Team"
-    url = "/team/"
-    weight = 3

@@ -7,7 +7,9 @@ I'm Randy.
 
 [YouTube](https://www.youtube.com/@randyprime)
 [Twitter/X](https://twitter.com/primalrandy)
-[Steam](https://store.steampowered.com/developer/randygg)
+[Twitch](https://twitch.tv/randy)
+
+### Wishlist [Arcane Survival](https://s.team/a/2571560) on Steam
 
 ### Wishlist [Arcane Survival]("https://s.team/a/2571560") on Steam
 

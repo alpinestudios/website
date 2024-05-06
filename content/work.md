@@ -3,13 +3,11 @@ title: /WORK
 layout: basic
 ---
 
-If you'd like to apply for any of the roles below, send me an email:
+I've got a list of positions I'm actively looking to fill out listed below. But I'm always on the lookout for other *sik kunts™️* that want to work with me on making great shit.
 
-**contact at randy dot gg**
+Right now all efforts are going towards shipping [Arcane Survival](/arcane) while building up a killer team to tackle the next game... and then the next... and then the next...
 
-I've got a list of positions I'm actively looking to fill listed out below. But I'm always on the lookout for other *sik kunts™️* that want to work with me on cool shit.
-
-Right now all efforts are going towards shipping [Arcane Survival](/arcane) while building up a killer team to tackle the next game... and then the next...
+If that sounds like something you're down for, then shoot me [an email](/contact).
 
 ## CEO of Stream Highlights
 

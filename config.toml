@@ -51,3 +51,9 @@ noClasses = false
     name = "work"
     url = "/work/"
     weight = 3
+
+    [[menu.nav]]
+    identifier = "contact"
+    name = "contact"
+    url = "/contact/"
+    weight = 4

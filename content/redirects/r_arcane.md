@@ -1,5 +1,5 @@
 ---
 url: arcane
 layout: "redirect"
-redirect_url: "https://randyprime.itch.io/arcane-survival"
+redirect_url: "https://s.team/a/2571560"
 ---

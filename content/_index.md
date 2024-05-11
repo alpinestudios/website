@@ -19,4 +19,4 @@ What I do:
 - I'm building out a lean game studio that's focused on creating and shipping banger games with great tech. Eventually, the goal is to be shipping AAA quality games with a very small group of people. To spit in the face of the status quo.
 [/work](/work)
 
-The best way to support what I do is by becoming a member [on Patreon](/patreon). It's the most direct way to help me develop the game faster and grow the studio.
+If you'd like to support what I do, you can [buy me a coffee here](/kofi). It's the most direct way to help me keep on keepin' on.

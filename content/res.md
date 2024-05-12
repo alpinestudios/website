@@ -28,17 +28,17 @@ Exhibit A: https://www.youtube.com/watch?v=uVvZlH5gPAU
 Beyond that. I don't have a good answer aside from just trial and error, while seeking as many mentors as possible and asking a fuck load of questions.
 For that, here are some good places to do so:
 
+tech-related:
 Ryan's discord server https://www.rfleury.com/ (which'll probably require a $5/month investment to his Substack if you want to be nice)
+Searching via the [Handmade hero episode guide](https://hero.handmade.network/episode/code) can be helpful for tech-related stuff.
 
-Searching via the [Handmade hero episode guide](https://hero.handmade.network/episode/code) can be helpful.
+For game-design stuff and actually getting into the shipping / playtesting mindset, I've been getting a lot of experience with this over the last 6 months and I'm happy to field any questions you might have. I've got a private section of my discord dedicated to this. It's paywalled off via [patreon](/patreon) to stop a flood of people (and also to fill my pockets of course, man's gotta eat).
 
-If all else fails, the [Handmade Network Discord](https://handmade.network/).
+The rest of this page is just a bunch of concepts I've loosely organised.
 
-glhf
+Enjoy!
 
 ---
-
-The rest of this page is just a bunch of concepts I've loosely organised 
 
 ## Memory Management
 A nice video clip to intro to the overall issue: https://hero.handmade.network/episode/code/day626/#4408  
@@ -95,6 +95,11 @@ https://learn.microsoft.com/en-us/windows/win32/direct3d9/directly-mapping-texel
 [A better point light attenuation function](https://lisyarus.github.io/blog/graphics/2022/07/30/point-light-attenuation.html)  
 
 ## audio programming
+Save yourself the pain of writing bytes to a sound buffer and just use [FMOD](https://www.fmod.com). It's unparalleled when it comes to getting soundscapes for games up and running. It's what I'm shipping with in my game.
+The other big daddy is Wise, but from what I've seen FMOD is more accessible when starting out.
+
+Now, if you really do want to go down the DIY route because you think it might be fun...
+
 [Lessons Learned from a Decade of Audio Programming](https://www.youtube.com/watch?v=Vjm--AqG04Y) is a banger  
 
 [Introduction to Sound Mixing](https://guide.handmadehero.org/code/day139/)  
@@ -104,6 +109,7 @@ implementation is in the following days [here](https://guide.handmadehero.org/co
 https://tek256.com/posts/game-audio/ - decent overview of some of the terms wrt game dev  
 
 [low pass filter](https://dobrian.github.io/cmp/topics/filters/lowpassfilter.html)  
+It was at this point that I realised doing it myself is a stupid idea. Writing all these filters from scratch is silly. I wanted more complex mixing at my fingertips, while staying in the game / sound design space (instead of the *engine brain* tooling space)... hence FMOD.
 
 ## Ryan Fleury
 Ryan deserves his own section because he's an absolute unit of a man.  
@@ -113,17 +119,17 @@ Ryan deserves his own section because he's an absolute unit of a man.
 [Confronting combinatorics](https://www.rfleury.com/i/54162175/confronting-combinatorics) - flags vs switches  
 
 ## Jai Programming
-If you're in the beta, first just read the `how_to`  
+If you're in the beta, the `how_to` is king. Also don't forget to go through *every single module* to get a feel for what's already been done. I was a silly goose and didn't do this, so I ended up writing my own custom arena allocator... only to realise that Flat_Pool was a thing. RIP.
 
-then...  
-
+other helpful community stuff:
 [The Way to Jai](https://github.com/Ivo-Balbaert/The_Way_to_Jai) - great starting point  
 [Jai Community Wiki](https://github.com/Jai-Community/Jai-Community-Library/wiki) - a great reference once finished with the `how_to`'s (and for finding stuff that isn't yet doucmented in them)  
 
-### Jon Nuggets
+The following is a collection of Jon Nuggets™️
+
 [why RAII is bad](https://www.youtube.com/watch?v=uZgbKrDEzAs&t=603s)
 
-on simply parsing a custom text file, found in `"jai\modules\Text_File_Handler\examples\example.jai"`
+on parsing a custom text file instead of using something like json, found in `"jai\modules\Text_File_Handler\examples\example.jai"`
 ```
 Here, we parse each line of the file. Many programmers in the modern day seem to be afraid
 of parsing and fall back on huge libraries that don't even really solve the problem, and
@@ -141,7 +147,7 @@ exactly backward, but they are exactly backward.
 ## networking shit
 high level overview - https://pvigier.github.io/2019/09/08/beginner-guide-game-networking.html  
 
-Don't bang your head against a wall trying to get around [NAT](https://tailscale.com/blog/how-nat-traversal-works/) from scratch, bang your head against a wall while using the [SteamAPI](https://partner.steamgames.com/doc/sdk/api) instead.  
+Don't bang your head against a wall trying to get around [NAT](https://tailscale.com/blog/how-nat-traversal-works/) from scratch, instead bang your head against a wall while using the [SteamAPI](https://partner.steamgames.com/doc/sdk/api).  
 
 great resource for learning socket fundamentals from scratch - https://beej.us/guide/bgnet/  
 

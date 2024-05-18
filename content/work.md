@@ -3,21 +3,21 @@ title: /WORK
 layout: basic
 ---
 
-I've got a list of positions I'm actively looking to fill out listed below. But I'm always on the lookout for other *sik kunts™️* that want to work with me on making great shit.
+I'm always on the lookout for great people to work with. If you're extremely passionate about what you do and think work-life balance is a concept reserved for people who don't like what they do, then we'd probably get along really well.
 
 Right now all efforts are going towards shipping [Arcane Survival](/arcane) while building up a killer team to tackle the next game... and then the next... and then the next...
 
 If that sounds like something you're down for, then shoot me [an email](/contact).
 
-## CEO of Stream Highlights
+## Steam Capsule Artist
+I'm looking for someone to do a banger Steam capsule, and any other high quality marketing assets that're needed. If you've got experience in this domain and reckon you'd be able to cook up something amazing, then I'd love to hear from you!
 
-I'm looking for someone to help me ship ABSOLUTE VOLUME to the second channel, ideally in the form of stream highlights from [the weekday streams](https://www.youtube.com/@randyprime/streams).
+## YouTube Video Editor
+I'm looking for someone to help me dust of the v2 channel and crank out ABSOLUTE VOLUME with me, ideally in the form of stream highlights from [the weekday streams](https://www.youtube.com/@randyprime/streams).
 
 Since it's the second channel, it's important that we ship quick n' fast so the people who don't have the time to sit through a stream can still be a part of the community.
 
-If you've got experience releasing YouTube videos and are keen on working together, I'd love to hear from you!
-
-> *^^^ Status: just started looking for someone*
+If you've got experience releasing YouTube videos, hit me up!
 
 ## Music / Sound Designer Homie
 Let's spin up a DAW and crank out a sick OST together.
@@ -32,7 +32,13 @@ If you're down to work with me on this and essentially be a mentor for me in thi
 
 btw here's a [playlist mood board](https://open.spotify.com/playlist/2cELld6dxzKNS4GBlALMLW?si=2dc3cf3602e2471f) I've been prepping for a while now to give you a tase of some of the vibes I'd like to hit.
 
-> *^^^ Status: still looking for someone*
+## 3D Artist & Animator
+I'm in search of someone who knows their way around Blender and can help me crank out prototype low-poly assets for the next project.
+
+Extra bonus points if you're great at animating.
+
+## Guitar Chad
+Simply put, I'm looking for a mentor who knows their way around the fretboard. So that I can ask a bunch questions and get advice on how to step up my game.
 
 ---
 

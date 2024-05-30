@@ -3,21 +3,44 @@ title: /WORK
 layout: basic
 ---
 
-I'm always on the lookout for great people to work with. If you're extremely passionate about what you do and think work-life balance is a concept reserved for people who don't like what they do, then we'd probably get along really well.
+I'm always on the lookout for great people to work with. If you're extremely passionate about what you do and think that work-life balance is a concept reserved for people who don't like what they do, then we'd probably get along really well.
 
-Right now all efforts are going towards shipping [Arcane Survival](/arcane) while building up a killer team to tackle the next game... and then the next... and then the next...
+Right now all efforts are going towards shipping [ARCANA](/arcane) while building up a killer team to tackle the next game... and then the next... and then the next...
 
 If that sounds like something you're down for, then shoot me [an email](/contact).
 
+## Pixel Art Chad & Animator
+At the moment, the biggest bottleneck in development is the animations. I'm not very good at animating, so cranking out new enemies, passive mobs, and bosses is a big bottleneck.
+
+If you've got experience just Getting It Done™️ and wanna see your pixels getting shipped out continually to players in a fast paced environment. Then hit me up!
+
+## Another 10x Brogrammer
+We're always on the lookout for programmers who actually know what they're doing.
+Which of course means building out highly CLEAN code with plenty of Object Oriented abstractions and RAII goodness!
+If you agree with the sentence above, then you can stop reading here.
+
+Real talk though, we're trying to push the boundaries of what's possible in games. We're working in the beautiful Jai language beta and it continues to amaze me every day with how simple and effective everything can be. It's a brilliant language for both low level engine programming and higher level gameplay / systems programming.
+
+I look at most games today and I see 1gb+ downloads, horrible UX, long ass loading screens, and a clusterfuck of bugs... :(
+We're looking to be an example of the exact opposite, while still shipping fast and nailing the fundamental game design.
+
+Right now we're zoned in on shipping a banger medium-sized game [to Steam](https://s.team/a/2571560), which we just launched a demo for. There's not a lot of scope since we're a small team and are really just tryna nail the fundamentals while getting experience with working together.
+
+Here's some potential roles I think could be filled...
+
+*Gameplay Programming*
+This is my domain at the moment, but I'm really keen to bring someone in who knows what they're doing and can work alongside me at this level, directly working on new content and systems for the players to enjoy.
+I'm looking for people who are able to just go off and do something on their own, making a fully shippable and quality piece of content for the players, with ideally 0 input on my part with getting it to that end state.
+
+*Netchad*
+For the next game, we're looking to kick things up a notch with a 3D multiplayer game. Nothing massive, just simple coop gameplay with an upper limit of around 8 people (Valheim style).
+None of use are hugely experienced with netcode, so we could use someone who's got experience in that domain and knows how to fling packets around while keeping the game structure nice to program gameplay in.
+
+*Anything else*
+If you've got an idea for how you can be a big value add to the team, I'd love to hear from ya!
+
 ## Steam Capsule Artist
 I'm looking for someone to do a banger Steam capsule, and any other high quality marketing assets that're needed. If you've got experience in this domain and reckon you'd be able to cook up something amazing, then I'd love to hear from you!
-
-## YouTube Video Editor
-I'm looking for someone to help me dust of the v2 channel and crank out ABSOLUTE VOLUME with me, ideally in the form of stream highlights from [the weekday streams](https://www.youtube.com/@randyprime/streams).
-
-Since it's the second channel, it's important that we ship quick n' fast so the people who don't have the time to sit through a stream can still be a part of the community.
-
-If you've got experience releasing YouTube videos, hit me up!
 
 ## Music / Sound Designer Homie
 Let's spin up a DAW and crank out a sick OST together.

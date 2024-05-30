@@ -35,6 +35,7 @@ I'm looking for people who are able to just go off and do something on their own
 *Netchad*
 For the next game, we're looking to kick things up a notch with a 3D multiplayer game. Nothing massive, just simple coop gameplay with an upper limit of around 8 people (Valheim style).
 None of use are hugely experienced with netcode, so we could use someone who's got experience in that domain and knows how to fling packets around while keeping the game structure nice to program gameplay in.
+At some point in a future game I'd like to go all in and make something truly unique by pushing the boundaries of what's possible with multiplayer. Massive MMO vibes. Kinda like what I think Hello Games is doin for their [next project](https://store.steampowered.com/app/2719590/Light_No_Fire/).
 
 *Anything else*
 If you've got an idea for how you can be a big value add to the team, I'd love to hear from ya!

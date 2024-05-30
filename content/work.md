@@ -43,7 +43,17 @@ If you've got an idea for how you can be a big value add to the team, I'd love t
 ## Steam Capsule Artist
 I'm looking for someone to do a banger Steam capsule, and any other high quality marketing assets that're needed. If you've got experience in this domain and reckon you'd be able to cook up something amazing, then I'd love to hear from you!
 
+## 3D Artist & Animator
+I'm in search of someone who knows their way around Blender and can help me crank out prototype low-poly assets for the next project.
+
+Extra bonus points if you're great at animating.
+
+## Guitar Chad
+Simply put, I'm looking for a mentor who knows their way around the fretboard. So that I can ask a bunch questions and get advice on how to step up my game.
+
 ## Music / Sound Designer Homie
+*this role is filled, but I'm always looking for mentors.*
+
 Let's spin up a DAW and crank out a sick OST together.
 
 I've been doing all the sound design by myself so far and have been thoroughly enjoying it. I do it all in REAPER by kitbashing stuff together. I'm yet to attempt anything on the music front (aside from learning the basics), but I'd really love to learn (I've got a copy of Abelton Live raring to go).
@@ -55,14 +65,6 @@ Ideally you've got experience making music for games and formating it to work wi
 If you're down to work with me on this and essentially be a mentor for me in this domain, I'd be very grateful!
 
 btw here's a [playlist mood board](https://open.spotify.com/playlist/2cELld6dxzKNS4GBlALMLW?si=2dc3cf3602e2471f) I've been prepping for a while now to give you a tase of some of the vibes I'd like to hit.
-
-## 3D Artist & Animator
-I'm in search of someone who knows their way around Blender and can help me crank out prototype low-poly assets for the next project.
-
-Extra bonus points if you're great at animating.
-
-## Guitar Chad
-Simply put, I'm looking for a mentor who knows their way around the fretboard. So that I can ask a bunch questions and get advice on how to step up my game.
 
 ---
 

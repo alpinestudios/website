@@ -7,16 +7,14 @@ I'm Randy.
 
 [YouTube](https://www.youtube.com/@randyprime)
 [Twitter/X](https://twitter.com/primalrandy)
-[Twitch](https://twitch.tv/randy)
 
-Wishlist [The Game](https://s.team/a/2571560) on Steam
+My game [ARCANA](https://s.team/a/2571560) on Steam
 
 What I do:
 - I eat, sleep, and shit game development. I've been doing it for 8 years, creating [YouTube videos](https://www.youtube.com/@randyprime) as I go.
 
-- Currently working on a 2D open world survival crafting game. I [live stream](https://twitch.tv/randy) development regularly.
+- In my spare time, I help other people program games in C via [the Skool community](https://www.skool.com/game-dev).
 
 - I'm building out a lean game studio that's focused on creating and shipping banger games with great tech. Eventually, the goal is to be shipping AAA quality games with a very small group of people. To spit in the face of the status quo.
-[/work](/work)
 
-If you'd like to support what I do, you can [buy me a coffee here](/kofi). It's the most direct way to help me keep on keepin' on.
+See [/work](/work) if you'd like to join the team.

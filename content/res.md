@@ -4,6 +4,14 @@ layout: basic
 description: A collection of resources/tools I’ve come across over the years to aid in building games from scratch.
 ---
 
+
+NOTE:
+I've now got a Skool group dedicated towards learning game dev from scratch.
+
+You can join for free here -> [/skool](https://www.skool.com/game-dev)
+
+//
+
 # How to make a game from scratch without dying of old age
 There are an infinite amount of problems to solve.
 Yet, only a handful of them will bring you closer to releasing a game.
@@ -31,8 +39,6 @@ For that, here are some good places to do so:
 tech-related:
 Ryan's discord server https://www.rfleury.com/ (which'll probably require a $5/month investment to his Substack if you want to be nice)
 Searching via the [Handmade hero episode guide](https://hero.handmade.network/episode/code) can be helpful for tech-related stuff.
-
-For game-design stuff and actually getting into the shipping / playtesting mindset, I've been getting a lot of experience with this over the last 6 months and I'm happy to field any questions you might have. I've got a private section of my discord dedicated to this. It's paywalled off via [patreon](/patreon) to stop a flood of people (and also to fill my pockets of course, man's gotta eat).
 
 The rest of this page is just a bunch of concepts I've loosely organised.
 

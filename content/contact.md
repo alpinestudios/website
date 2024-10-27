@@ -2,6 +2,6 @@
 layout: basic
 ---
 
-Email: **contact @ (this domain name)**
+My email is:
 
-*I'm giving you something to do. Busywork is needed to prevent revolution.*
+`contact at randy dot gg`

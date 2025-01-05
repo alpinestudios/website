@@ -41,9 +41,9 @@ noClasses = false
     weight = 1
 
     [[menu.nav]]
-    identifier = "team"
-    name = "team"
-    url = "/team/"
+    identifier = "resources"
+    name = "resources"
+    url = "/list/"
     weight = 2
 
     [[menu.nav]]
